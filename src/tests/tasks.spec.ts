@@ -50,7 +50,7 @@ describe('getOneTask', () => {
 			id: 2,
 			name: 'Mission 02',
 			description: 'NLP',
-			isCompleted: false,
+			isCompleted: true,
 		};
 
 		//Act
