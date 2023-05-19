@@ -7,7 +7,7 @@
 		"dev": "tsnd src/server.ts",
 		"test": "jest",
 		"build": "tsc",
-		"start": "node build/server.js"
+		"start": "tsnd src/server.ts"
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.17",
